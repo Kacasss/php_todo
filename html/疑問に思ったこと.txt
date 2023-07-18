@@ -1,0 +1,4 @@
+疑問に思った所
+
+MYSQLのtodo_itemsテーブルの、user_idカラムに
+IX_todo_items_user_id を入れてる？

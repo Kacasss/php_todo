@@ -1,0 +1,27 @@
+.complete {
+    text-decoration: line-through;
+}
+
+.form-alert {
+    font-size: 10px;
+}
+
+/* ボタンを横並びにする */
+.form {
+    display: inline-block;
+}
+
+/* 打消し線を入れる */
+tr.del > td {
+    text-decoration: line-through;
+}
+
+/* ボタンのセルは打消し線を入れない */
+tr.del > td.button {
+    text-decoration: none;
+}
+
+/* 完了の場合は、ポインタを矢印にする */
+.btn-disabled {
+    cursor: default;
+}
