@@ -43,7 +43,7 @@
                         </div>
 
                         <input type="button" value="キャンセル" class="btn btn-outline-secondary"
-                            onclick="location.href='../login/admin/';">
+                            onclick="location.href='./';">
                         <input type="submit" value="登録" class="btn btn-secondary">
 
                     </form>
